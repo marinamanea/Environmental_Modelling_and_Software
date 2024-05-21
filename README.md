@@ -7,6 +7,6 @@
 
 # Highlights
 
-# 1) We use of General-purpose Finite Element Program (PDE2D) to solve the coupled equations of continuity, Darcy, and energy conservation.
+# 1) We use the General-purpose Finite Element Program (PDE2D) to solve the coupled equations of continuity, Darcy, and energy conservation.
 # 2) We calculate using finite elements flow, temperature and pressure distribution inside seamounts of arbitrary shapes and complex geometries. 
 # 3) We present a numerical axisymmetrical model tailored to the real geometry of the Grizzly Bare seamount, and obtain a good correlation between our predictions and in-situ available observations.
